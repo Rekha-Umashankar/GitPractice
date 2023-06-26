@@ -1,0 +1,16 @@
+{
+"logins":[
+	{
+		"username" : "rekha@aa.com",
+		"password" : "abcd@123"
+
+	},
+	{
+		"username" : "rea@aa.com",
+		"password" : "abcd@123"
+
+	}
+
+]
+
+}
